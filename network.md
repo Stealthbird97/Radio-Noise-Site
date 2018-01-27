@@ -42,7 +42,7 @@ SamKnows Whitebox \\
 Ubiquiti ToughSwitch \\
 Ubiquiti Unifi UAP-AC-Lite
 
-###Other
+### Others
 Janie
 * Raspberry Pi Model 3 B
 
