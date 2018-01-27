@@ -19,15 +19,15 @@
 	.st11{font-family:'ArialMT';}
 	.st12{font-size:8.6169px;}
 	.st13{fill:none;stroke:#FFFFFF;stroke-width:0.1923;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;}
-	.st14{fill:url(#rect9906_8_);stroke:#000000;stroke-width:1.2;stroke-dasharray:0.94,3.761;}
+	.st14{fill:url(#rect9906_10_);stroke:#000000;stroke-width:1.2;stroke-dasharray:0.94,3.761;}
 	.st15{font-size:8.6171px;}
-	.st16{fill:url(#rect9906_9_);stroke:#000000;stroke-width:1.2;stroke-dasharray:0.94,3.761;}
-	.st17{fill:url(#rect9906_10_);stroke:#000000;stroke-width:1.2;stroke-dasharray:0.94,3.761;}
-	.st18{fill:url(#rect9906_11_);stroke:#000000;stroke-width:1.2;stroke-dasharray:0.94,3.761;}
-	.st19{fill:url(#rect9906_12_);stroke:#000000;stroke-width:1.2;stroke-dasharray:0.94,3.761;}
-	.st20{fill:url(#rect9906_13_);stroke:#000000;stroke-width:1.2;stroke-dasharray:0.94,3.761;}
-	.st21{fill:url(#rect9906_14_);stroke:#000000;stroke-width:1.2;stroke-dasharray:0.94,3.761;}
-	.st22{fill:url(#rect9906_15_);stroke:#000000;stroke-width:1.2;stroke-dasharray:0.94,3.761;}
+	.st16{fill:url(#rect9906_12_);stroke:#000000;stroke-width:1.2;stroke-dasharray:0.94,3.761;}
+	.st17{fill:url(#rect9906_13_);stroke:#000000;stroke-width:1.2;stroke-dasharray:0.94,3.761;}
+	.st18{fill:url(#rect9906_14_);stroke:#000000;stroke-width:1.2;stroke-dasharray:0.94,3.761;}
+	.st19{fill:url(#rect9906_15_);stroke:#000000;stroke-width:1.2;stroke-dasharray:0.94,3.761;}
+	.st20{fill:url(#rect9906_16_);stroke:#000000;stroke-width:1.2;stroke-dasharray:0.94,3.761;}
+	.st21{fill:url(#rect9906_17_);stroke:#000000;stroke-width:1.2;stroke-dasharray:0.94,3.761;}
+	.st22{fill:url(#rect9906_18_);stroke:#000000;stroke-width:1.2;stroke-dasharray:0.94,3.761;}
 	.st23{fill:url(#rect9919-3_5_);stroke:#000000;stroke-width:0.758;}
 	.st24{fill:none;stroke:#000000;stroke-width:1.5389;}
 	.st25{font-size:12px;}
@@ -48,8 +48,11 @@
 	.st40{fill:none;stroke:#000000;stroke-width:1.2;}
 	.st41{fill:none;stroke:#000000;stroke-width:1.2;stroke-dasharray:1.2,4.8;}
 	.st42{fill:url(#rect10202-5-2-0_11_);stroke:#000000;stroke-width:0.81;}
+	.st43{fill:url(#rect9906_19_);stroke:#000000;stroke-width:1.2;stroke-dasharray:0.94,3.761;}
+	.st44{fill:url(#rect9906_20_);stroke:#000000;stroke-width:1.2;stroke-dasharray:0.94,3.761;}
+	.st45{fill:url(#rect9906_21_);stroke:#000000;stroke-width:1.2;stroke-dasharray:0.94,3.761;}
 </style>
-<radialGradient id="rect10202-5-2-0_6_" cx="-659.9199" cy="-3705.2925" r="40.8978" gradientTransform="matrix(0.7346 0 0 0.7383 563.0177 3146.4661)" gradientUnits="userSpaceOnUse">
+<radialGradient id="rect10202-5-2-0_6_" cx="-475.3584" cy="4390.1826" r="40.9213" gradientTransform="matrix(0.7346 0 0 -0.7383 427.3983 3652.1204)" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#FFFFFF"/>
 	<stop  offset="1" style="stop-color:#7CFF9F"/>
 </radialGradient>
@@ -80,7 +83,7 @@
 		<path id="path9956" inkscape:connector-curvature="0" class="st3" d="M-893.7-3009.5c-33.1-5.5-19.9-51.9,32.9-43.9
 			c4.9-15.4,66.4-12.9,66,0c38.5-16.5,87.8,16.4,54.8,32.9c39.6,8-0.5,51.1-33,43.9c-2.6,12-60.8,16.2-65.9,0
 			C-871.9-2959.2-940.6-2985.9-893.7-3009.5L-893.7-3009.5z"/>
-		<text transform="matrix(1.6247 0 0 1.6247 -861.2406 -3007.1177)" class="st4 st5">Internet</text>
+		<text transform="matrix(1.6247 0 0 1.6247 -861.2399 -3007.1169)" class="st4 st5">Internet</text>
 	</g>
 	
 		<g id="g6494" onclick="window.open('http://www.sown.org.uk/wiki/Sown-gw');" transform="matrix(0.615504,0,0,0.615504,578.06394,2201.0161)">
@@ -93,7 +96,7 @@
 <path id="line10313_3_" class="st7" d="M38.5,142.4"/>
 <path id="line10313_2_" class="st7" d="M-69.4,267"/>
 <ellipse id="ellipse10212-4-9-9" class="st8" cx="74.8" cy="179.1" rx="3.6" ry="3.8"/>
-<radialGradient id="rect10202-5-2-0_7_" cx="-664.8757" cy="-4067.9607" r="40.8978" gradientTransform="matrix(0.7346 0 0 0.7383 563.0177 3146.4661)" gradientUnits="userSpaceOnUse">
+<radialGradient id="rect10202-5-2-0_7_" cx="-480.2591" cy="4752.8506" r="40.8978" gradientTransform="matrix(0.7346 0 0 -0.7383 427.3983 3652.1204)" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#FFFFFF"/>
 	<stop  offset="1" style="stop-color:#7CFF9F"/>
 </radialGradient>
@@ -105,15 +108,15 @@
 <line id="line10018" class="st13" x1="74.6" y1="313.5" x2="136.5" y2="292.6"/>
 <g id="g6494_1_" onclick="window.open('http://www.sown.org.uk/wiki/Sown-gw');" transform="matrix(0.615504,0,0,0.615504,578.06394,2201.0161)">
 	
-		<radialGradient id="rect9906_8_" cx="-1325.7039" cy="-35889.8789" r="193.0513" gradientTransform="matrix(7.755265e-02 0 0 4.364297e-02 -713.9954 -1592.9646)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="rect9906_10_" cx="13469.4355" cy="62898.5273" r="193.0445" gradientTransform="matrix(4.773397e-02 0 0 -2.686242e-02 -1459.7496 -1469.6987)" gradientUnits="userSpaceOnUse">
 		<stop  offset="0" style="stop-color:#FFFFFF"/>
 		<stop  offset="1" style="stop-color:#7DC7FF"/>
 	</radialGradient>
 	<rect id="rect9906" x="-920.8" y="-3217.7" class="st14" width="208" height="116.3"/>
 	<ellipse id="ellipse10340_1_" class="st6" cx="-818.4" cy="-3216.5" rx="5.9" ry="6.3"/>
-	<text transform="matrix(1.6247 0 0 1.6247 -839.6826 -3196.1487)" class="st11 st15">PPPoE</text>
-	<text transform="matrix(1.6247 0 0 1.6247 -888.345 -3148.8848)" class="st4 st5">misaka00000</text>
-	<text transform="matrix(0 -1.6247 1.6247 0 -724.09 -3127.0188)" class="st11 st15">10.0.1.100</text>
+	<text transform="matrix(1.6247 0 0 1.6247 -839.6821 -3196.1479)" class="st11 st15">PPPoE</text>
+	<text transform="matrix(1.6247 0 0 1.6247 -888.3444 -3148.884)" class="st4 st5">misaka00000</text>
+	<text transform="matrix(0 -1.6247 1.6247 0 -724.0894 -3127.0198)" class="st11 st15">10.0.1.100</text>
 </g>
 <ellipse id="ellipse10433-4-9_1_" cx="139.3" cy="256.3" rx="3.7" ry="3.8"/>
 <line id="line9962_2_" class="st1" x1="139.3" y1="256.7" x2="782" y2="254.6"/>
@@ -121,94 +124,94 @@
 <path id="line10018_9_" class="st13" d="M283.2,367.9"/>
 <g id="g6494_2_" onclick="window.open('http://www.sown.org.uk/wiki/Sown-gw');" transform="matrix(0.615504,0,0,0.615504,578.06394,2201.0161)">
 	
-		<radialGradient id="rect9906_9_" cx="1746.881" cy="-33086.707" r="193.0513" gradientTransform="matrix(7.755265e-02 0 0 4.364297e-02 -713.9954 -1592.9646)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="rect9906_12_" cx="18461.6875" cy="58344.2578" r="193.0325" gradientTransform="matrix(4.773397e-02 0 0 -2.686242e-02 -1459.7496 -1469.6987)" gradientUnits="userSpaceOnUse">
 		<stop  offset="0" style="stop-color:#FFFFFF"/>
 		<stop  offset="1" style="stop-color:#7DC7FF"/>
 	</radialGradient>
 	<rect id="rect9906_1_" x="-682.5" y="-3095.4" class="st16" width="208" height="116.3"/>
 	<ellipse id="ellipse10340_2_" class="st6" cx="-580.1" cy="-3094.1" rx="5.9" ry="6.3"/>
-	<text transform="matrix(1.6247 0 0 1.6247 -650.0579 -3026.5459)" class="st4 st5">misaka00001</text>
-	<text transform="matrix(1.6247 0 0 1.6247 -614.1543 -3069.6531)" class="st11 st15">10.0.1.101</text>
+	<text transform="matrix(1.6247 0 0 1.6247 -650.0573 -3026.5452)" class="st4 st5">misaka00001</text>
+	<text transform="matrix(1.6247 0 0 1.6247 -614.1537 -3069.6523)" class="st11 st15">10.0.1.101</text>
 </g>
 <line id="line9962_3_" class="st1" x1="374.3" y1="291.9" x2="374.4" y2="255.9"/>
 <path id="line10018_7_" class="st13" d="M436.4,367.5"/>
 <g id="g6494_3_" onclick="window.open('http://www.sown.org.uk/wiki/Sown-gw');" transform="matrix(0.615504,0,0,0.615504,578.06394,2201.0161)">
 	
-		<radialGradient id="rect9906_10_" cx="4956.0039" cy="-33099.8398" r="193.0513" gradientTransform="matrix(7.755265e-02 0 0 4.364297e-02 -713.9954 -1592.9646)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="rect9906_13_" cx="23673.9082" cy="58365.5938" r="193.1033" gradientTransform="matrix(4.773397e-02 0 0 -2.686242e-02 -1459.7496 -1469.6987)" gradientUnits="userSpaceOnUse">
 		<stop  offset="0" style="stop-color:#FFFFFF"/>
 		<stop  offset="1" style="stop-color:#7DC7FF"/>
 	</radialGradient>
 	<rect id="rect9906_2_" x="-433.7" y="-3095.9" class="st17" width="208" height="116.3"/>
 	<ellipse id="ellipse10340_3_" class="st6" cx="-331.2" cy="-3094.7" rx="5.9" ry="6.3"/>
-	<text transform="matrix(1.6247 0 0 1.6247 -401.1818 -3027.1191)" class="st4 st5">misaka00003</text>
-	<text transform="matrix(1.6247 0 0 1.6247 -365.2782 -3070.2263)" class="st11 st15">10.0.1.103</text>
+	<text transform="matrix(1.6247 0 0 1.6247 -401.1812 -3027.1184)" class="st4 st5">misaka00003</text>
+	<text transform="matrix(1.6247 0 0 1.6247 -365.2776 -3070.2256)" class="st11 st15">10.0.1.103</text>
 </g>
 <line id="line9962_6_" class="st1" x1="532.4" y1="291.6" x2="532.5" y2="255.6"/>
 <path id="line10018_5_" class="st13" d="M594.5,367.2"/>
 <g id="g6494_5_" onclick="window.open('http://www.sown.org.uk/wiki/Sown-gw');" transform="matrix(0.615504,0,0,0.615504,578.06394,2201.0161)">
 	
-		<radialGradient id="rect9906_11_" cx="8269.1406" cy="-33114.2344" r="193.0513" gradientTransform="matrix(7.755265e-02 0 0 4.364297e-02 -713.9954 -1592.9646)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="rect9906_14_" cx="29057.916" cy="58388.9805" r="193.0497" gradientTransform="matrix(4.773397e-02 0 0 -2.686242e-02 -1459.7496 -1469.6987)" gradientUnits="userSpaceOnUse">
 		<stop  offset="0" style="stop-color:#FFFFFF"/>
 		<stop  offset="1" style="stop-color:#7DC7FF"/>
 	</radialGradient>
 	<rect id="rect9906_4_" x="-176.7" y="-3096.6" class="st18" width="208" height="116.3"/>
 	<ellipse id="ellipse10340_5_" class="st6" cx="-74.3" cy="-3095.3" rx="5.9" ry="6.3"/>
-	<text transform="matrix(1.6247 0 0 1.6247 -144.2394 -3027.7473)" class="st4 st5">misaka00005</text>
-	<text transform="matrix(1.6247 0 0 1.6247 -108.3357 -3070.8545)" class="st11 st15">10.0.1.105</text>
+	<text transform="matrix(1.6247 0 0 1.6247 -144.2388 -3027.7466)" class="st4 st5">misaka00005</text>
+	<text transform="matrix(1.6247 0 0 1.6247 -108.3351 -3070.8538)" class="st11 st15">10.0.1.105</text>
 </g>
 <line id="line9962_5_" class="st1" x1="299.5" y1="256.6" x2="299.6" y2="220.6"/>
 <path id="line10018_4_" class="st13" d="M361.7,220"/>
 <g id="g6494_4_" onclick="window.open('http://www.sown.org.uk/wiki/Sown-gw');" transform="matrix(0.615504,0,0,0.615504,578.06394,2201.0161)">
 	
-		<radialGradient id="rect9906_12_" cx="3391.7793" cy="-38593.1875" r="193.0513" gradientTransform="matrix(7.755265e-02 0 0 4.364297e-02 -713.9954 -1592.9646)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="rect9906_15_" cx="21132.7422" cy="67290.5547" r="193.0941" gradientTransform="matrix(4.773397e-02 0 0 -2.686242e-02 -1459.7496 -1469.6987)" gradientUnits="userSpaceOnUse">
 		<stop  offset="0" style="stop-color:#FFFFFF"/>
 		<stop  offset="1" style="stop-color:#7DC7FF"/>
 	</radialGradient>
 	<rect id="rect9906_3_" x="-555" y="-3335.7" class="st19" width="208" height="116.3"/>
 	<ellipse id="ellipse10340_4_" class="st6" cx="-452.5" cy="-3218" rx="5.9" ry="6.3"/>
-	<text transform="matrix(1.6247 0 0 1.6247 -522.4915 -3266.8652)" class="st4 st5">misaka00002</text>
-	<text transform="matrix(1.6247 0 0 1.6247 -486.5881 -3234.4246)" class="st11 st15">10.0.1.102</text>
+	<text transform="matrix(1.6247 0 0 1.6247 -522.4909 -3266.8645)" class="st4 st5">misaka00002</text>
+	<text transform="matrix(1.6247 0 0 1.6247 -486.5875 -3234.4238)" class="st11 st15">10.0.1.102</text>
 </g>
 <line id="line9962_7_" class="st1" x1="455.5" y1="255.6" x2="455.6" y2="219.6"/>
 <path id="line10018_1_" class="st13" d="M517.7,218.9"/>
 <g id="g6494_6_" onclick="window.open('http://www.sown.org.uk/wiki/Sown-gw');" transform="matrix(0.615504,0,0,0.615504,578.06394,2201.0161)">
 	
-		<radialGradient id="rect9906_13_" cx="6659.6196" cy="-38632.8203" r="193.0513" gradientTransform="matrix(7.755265e-02 0 0 4.364297e-02 -713.9954 -1592.9646)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="rect9906_16_" cx="26443.4258" cy="67354.9453" r="193.0287" gradientTransform="matrix(4.773397e-02 0 0 -2.686242e-02 -1459.7496 -1469.6987)" gradientUnits="userSpaceOnUse">
 		<stop  offset="0" style="stop-color:#FFFFFF"/>
 		<stop  offset="1" style="stop-color:#7DC7FF"/>
 	</radialGradient>
 	<rect id="rect9906_5_" x="-301.5" y="-3337.4" class="st20" width="208" height="116.3"/>
 	<ellipse id="ellipse10340_6_" class="st6" cx="-199.1" cy="-3219.7" rx="5.9" ry="6.3"/>
-	<text transform="matrix(1.6247 0 0 1.6247 -269.0618 -3268.5947)" class="st4 st5">misaka00004</text>
-	<text transform="matrix(1.6247 0 0 1.6247 -233.1584 -3236.1541)" class="st11 st15">10.0.1.102</text>
+	<text transform="matrix(1.6247 0 0 1.6247 -269.0611 -3268.594)" class="st4 st5">misaka00004</text>
+	<text transform="matrix(1.6247 0 0 1.6247 -233.1578 -3236.1533)" class="st11 st15">10.0.1.104</text>
 </g>
 <line id="line9962_9_" class="st1" x1="688.7" y1="290.5" x2="688.8" y2="254.5"/>
 <path id="line10018_14_" class="st13" d="M750.8,366.1"/>
 <g id="g6494_8_" onclick="window.open('http://www.sown.org.uk/wiki/Sown-gw');" transform="matrix(0.615504,0,0,0.615504,578.06394,2201.0161)">
 	
-		<radialGradient id="rect9906_14_" cx="11542.6611" cy="-33153.1836" r="193.0513" gradientTransform="matrix(7.755265e-02 0 0 4.364297e-02 -713.9954 -1592.9646)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="rect9906_17_" cx="34376.9805" cy="58452.2617" r="193.022" gradientTransform="matrix(4.773397e-02 0 0 -2.686242e-02 -1459.7496 -1469.6987)" gradientUnits="userSpaceOnUse">
 		<stop  offset="0" style="stop-color:#FFFFFF"/>
 		<stop  offset="1" style="stop-color:#7DC7FF"/>
 	</radialGradient>
 	<rect id="rect9906_7_" x="77.2" y="-3098.3" class="st21" width="208" height="116.3"/>
 	<ellipse id="ellipse10340_8_" class="st6" cx="179.6" cy="-3097" rx="5.9" ry="6.3"/>
-	<text transform="matrix(1.6247 0 0 1.6247 109.6309 -3029.4473)" class="st4 st5">misaka00007</text>
-	<text transform="matrix(1.6247 0 0 1.6247 145.5346 -3072.5544)" class="st11 st15">10.0.1.107</text>
+	<text transform="matrix(1.6247 0 0 1.6247 109.6315 -3029.4465)" class="st4 st5">misaka00007</text>
+	<text transform="matrix(1.6247 0 0 1.6247 145.5352 -3072.5537)" class="st11 st15">10.0.1.107</text>
 </g>
 <line id="line9962_8_" class="st1" x1="611.7" y1="254.5" x2="611.8" y2="218.5"/>
 <path id="line10018_12_" class="st13" d="M673.9,217.9"/>
 <g id="g6494_7_" onclick="window.open('http://www.sown.org.uk/wiki/Sown-gw');" transform="matrix(0.615504,0,0,0.615504,578.06394,2201.0161)">
 	
-		<radialGradient id="rect9906_15_" cx="9933.1406" cy="-38671.7656" r="193.0513" gradientTransform="matrix(7.755265e-02 0 0 4.364297e-02 -713.9954 -1592.9646)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="rect9906_18_" cx="31760.3945" cy="67418.2188" r="193.094" gradientTransform="matrix(4.773397e-02 0 0 -2.686242e-02 -1459.7496 -1469.6987)" gradientUnits="userSpaceOnUse">
 		<stop  offset="0" style="stop-color:#FFFFFF"/>
 		<stop  offset="1" style="stop-color:#7DC7FF"/>
 	</radialGradient>
 	<rect id="rect9906_6_" x="-47.7" y="-3339.1" class="st22" width="208" height="116.3"/>
 	<ellipse id="ellipse10340_7_" class="st6" cx="54.8" cy="-3221.4" rx="5.9" ry="6.3"/>
-	<text transform="matrix(1.6247 0 0 1.6247 -15.1916 -3270.2947)" class="st4 st5">misaka00006</text>
-	<text transform="matrix(1.6247 0 0 1.6247 20.7118 -3237.854)" class="st11 st15">10.0.1.106</text>
+	<text transform="matrix(1.6247 0 0 1.6247 -15.1908 -3270.2939)" class="st4 st5">misaka00006</text>
+	<text transform="matrix(1.6247 0 0 1.6247 20.7125 -3237.8533)" class="st11 st15">10.0.1.106</text>
 </g>
-<radialGradient id="rect9919-3_5_" cx="957.6279" cy="4750.5317" r="136.827" gradientTransform="matrix(0.6483 0 0 -0.2586 250.3038 1482.9172)" gradientUnits="userSpaceOnUse">
+<radialGradient id="rect9919-3_5_" cx="1234.868" cy="-4697.436" r="136.8147" gradientTransform="matrix(0.6483 0 0 0.2586 70.5851 1469.1866)" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#FFFFFF"/>
 	<stop  offset="1" style="stop-color:#7DC7FF"/>
 </radialGradient>
@@ -218,8 +221,8 @@
 <ellipse id="ellipse10297-9-1-9" class="st6" cx="782.8" cy="254.7" rx="3.9" ry="3.6"/>
 <path id="path4877_1_" inkscape:connection-start-point="d4" inkscape:connector-curvature="0" inkscape:connector-type="polyline" class="st24" d="
 	M948,218.1"/>
-<path id="ellipse10340_9_" class="st6" d="M78,371.5c2,0,3.6,1.7,3.6,3.9c0,2.1-1.6,3.9-3.6,3.9s-3.6-1.7-3.6-3.9
-	C74.4,373.2,76,371.5,78,371.5"/>
+<path id="ellipse10340_9_" class="st6" d="M78,371.5c2,0,3.6,1.7,3.6,3.9c0,2.1-1.6,3.9-3.6,3.9s-3.6-1.7-3.6-3.9S76,371.5,78,371.5
+	"/>
 <path id="line10313_4_" class="st7" d="M44,411"/>
 <ellipse id="ellipse10212-4-9-9_1_" class="st8" cx="78.4" cy="446.9" rx="3.6" ry="3.8"/>
 <text transform="matrix(1 0 0 1 46.584 415.4991)" class="st4 st25">SamKnows</text>
@@ -227,7 +230,7 @@
 <line id="line9962_11_" class="st1" x1="78" y1="374.1" x2="78.5" y2="292.9"/>
 <ellipse id="ellipse10340_10_" class="st6" cx="78.4" cy="292.1" rx="3.6" ry="3.9"/>
 <text transform="matrix(1 0 0 1 58.7163 285.6324)" class="st11 st15">10.0.1.100</text>
-<radialGradient id="rect10202-5-2-0_8_" cx="-659.7157" cy="-3554.947" r="40.8978" gradientTransform="matrix(0.7346 0 0 0.7383 563.0177 3146.4661)" gradientUnits="userSpaceOnUse">
+<radialGradient id="rect10202-5-2-0_8_" cx="-475.0862" cy="4239.8369" r="40.8923" gradientTransform="matrix(0.7346 0 0 -0.7383 427.3983 3652.1204)" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#FFFFFF"/>
 	<stop  offset="1" style="stop-color:#7CFF9F"/>
 </radialGradient>
@@ -248,20 +251,20 @@
 <ellipse id="ellipse10197-5-9-0" class="st28" cx="928.3" cy="562.2" rx="12.7" ry="12.3"/>
 <ellipse id="ellipse10199-7-3-2" class="st28" cx="928.6" cy="558.1" rx="9.1" ry="12.3"/>
 <ellipse id="ellipse10212-4-9-9_3_" class="st8" cx="928.6" cy="562.6" rx="3.6" ry="3.8"/>
-<radialGradient id="rect10202-5-2-0_9_" cx="326.587" cy="3865.5718" r="40.8935" gradientTransform="matrix(0.7346 0 0 -0.7383 688.5521 3380.5315)" gradientUnits="userSpaceOnUse">
+<radialGradient id="rect10202-5-2-0_9_" cx="511.2542" cy="-3508.4617" r="40.8722" gradientTransform="matrix(0.7346 0 0 0.7383 552.9327 3116.8772)" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#FFFFFF"/>
 	<stop  offset="1" style="stop-color:#7CFF9F"/>
 </radialGradient>
 <rect id="rect10202-5-2-0_3_" x="892.9" y="491.1" class="st29" width="71.2" height="71.3"/>
 <text transform="matrix(1 0 0 1 907.9888 531.356)" class="st4 st30">LandingAP</text>
-<path id="ellipse10212-4-9-9-3" class="st8" d="M889.1,525.8c0-2.1,1.6-3.8,3.6-3.8c2,0,3.6,1.7,3.6,3.8s-1.6,3.8-3.6,3.8
+<path id="ellipse10212-4-9-9-3" class="st8" d="M889.1,525.8c0-2.1,1.6-3.8,3.6-3.8s3.6,1.7,3.6,3.8s-1.6,3.8-3.6,3.8
 	C890.8,529.7,889.1,528,889.1,525.8"/>
 <text transform="matrix(0 1 -1 0 898.5625 508.3588)" class="st11 st12">10.0.10.2</text>
 <ellipse id="ellipse10212-4-9-9_4_" class="st8" cx="114" cy="411" rx="3.6" ry="3.8"/>
 <path id="line10018_16_" class="st13" d="M297,714.1"/>
 <path id="line9962_15_" class="st1" d="M170.5,598.2"/>
 <path id="line9962_14_" class="st1" d="M-79.1,447.9"/>
-<radialGradient id="rect9919-3_6_" cx="14.3583" cy="3421.8752" r="136.827" gradientTransform="matrix(0.6483 0 0 -0.2586 250.3038 1482.9172)" gradientUnits="userSpaceOnUse">
+<radialGradient id="rect9919-3_6_" cx="291.6318" cy="-3368.7793" r="136.7981" gradientTransform="matrix(0.6483 0 0 0.2586 70.5851 1469.1866)" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#FFFFFF"/>
 	<stop  offset="1" style="stop-color:#B978FF"/>
 </radialGradient>
@@ -274,7 +277,7 @@
 <ellipse id="ellipse10340_12_" class="st6" cx="259.6" cy="562.8" rx="3.6" ry="3.9"/>
 <path id="line10018_17_" class="st13" d="M441.5,527.5"/>
 <path id="line9962_17_" class="st1" d="M207,470.3"/>
-<radialGradient id="rect9919-3_7_" cx="70.6481" cy="3916.5342" r="136.827" gradientTransform="matrix(0.6483 0 0 -0.2586 250.3038 1482.9172)" gradientUnits="userSpaceOnUse">
+<radialGradient id="rect9919-3_7_" cx="347.9329" cy="-3863.4382" r="136.7924" gradientTransform="matrix(0.6483 0 0 0.2586 70.5851 1469.1866)" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#FFFFFF"/>
 	<stop  offset="1" style="stop-color:#B978FF"/>
 </radialGradient>
@@ -286,7 +289,7 @@
 <line id="line9962_16_" class="st1" x1="296" y1="432.7" x2="296" y2="411.4"/>
 <ellipse id="ellipse10340_13_" class="st6" cx="296.1" cy="434.8" rx="3.6" ry="3.9"/>
 <path id="line9962_19_" class="st1" d="M435.2,468.7"/>
-<radialGradient id="rect9919-3_8_" cx="421.0951" cy="3922.511" r="136.827" gradientTransform="matrix(0.6483 0 0 -0.2586 250.3038 1482.9172)" gradientUnits="userSpaceOnUse">
+<radialGradient id="rect9919-3_8_" cx="698.2337" cy="-3869.415" r="136.8652" gradientTransform="matrix(0.6483 0 0 0.2586 70.5851 1469.1866)" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#FFFFFF"/>
 	<stop  offset="1" style="stop-color:#7DC7FF"/>
 </radialGradient>
@@ -301,12 +304,12 @@
 <line id="line9962_20_" class="st1" x1="477.9" y1="433.3" x2="477.9" y2="412"/>
 <text transform="matrix(1 0 0 1 546.9404 447.0835)" class="st11 st15">10.0.2.10</text>
 <path id="line9962_22_" class="st1" d="M664.6,468.7"/>
-<radialGradient id="rect9919-3_9_" cx="776.6171" cy="3922.511" r="136.827" gradientTransform="matrix(0.6483 0 0 -0.2586 250.3038 1482.9172)" gradientUnits="userSpaceOnUse">
+<radialGradient id="rect9919-3_9_" cx="1053.7789" cy="-3869.415" r="136.8536" gradientTransform="matrix(0.6483 0 0 0.2586 70.5851 1469.1866)" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#FFFFFF"/>
 	<stop  offset="1" style="stop-color:#FF99FF"/>
 </radialGradient>
 <rect id="rect9919-3_4_" x="665" y="433.3" class="st34" width="177.5" height="70.8"/>
-<text transform="matrix(1 0 0 1 726.2985 473.7151)" class="st4 st5">Swann</text>
+<text transform="matrix(1 0 0 1 726.2986 473.7151)" class="st4 st5">Swann</text>
 <text transform="matrix(1 0 0 1 735.4254 446.084)" class="st11 st15">10.0.2.20</text>
 <path id="path4877_5_" inkscape:connection-start-point="d4" inkscape:connector-curvature="0" inkscape:connector-type="polyline" class="st24" d="
 	M830.6,432.2"/>
@@ -318,7 +321,7 @@
 <ellipse id="ellipse10197-5-9-0_1_" class="st28" cx="928.2" cy="420.4" rx="12.7" ry="12.3"/>
 <ellipse id="ellipse10199-7-3-2_1_" class="st28" cx="928.6" cy="416.4" rx="9.1" ry="12.3"/>
 <ellipse id="ellipse10212-4-9-9_5_" class="st8" cx="928.6" cy="420.8" rx="3.6" ry="3.8"/>
-<radialGradient id="rect10202-5-2-0_10_" cx="326.5419" cy="4057.5989" r="40.8935" gradientTransform="matrix(0.7346 0 0 -0.7383 688.5521 3380.5315)" gradientUnits="userSpaceOnUse">
+<radialGradient id="rect10202-5-2-0_10_" cx="511.2542" cy="-3700.4888" r="40.8532" gradientTransform="matrix(0.7346 0 0 0.7383 552.9327 3116.8772)" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#FFFFFF"/>
 	<stop  offset="1" style="stop-color:#FF99FF"/>
 </radialGradient>
@@ -327,50 +330,50 @@
 <text transform="matrix(1 -1.910000e-03 1.910000e-03 1 912.5428 416.3683)" class="st11 st12">10.0.2.6</text>
 <g id="g6774" transform="matrix(0.615504,0,0,0.615504,578.06394,2201.0161)">
 	
-		<radialGradient id="rect10254_1_" cx="3538.1599" cy="18524.1543" r="82.0749" gradientTransform="matrix(0.2332 0 0 -4.258220e-02 -598.4171 -1855.1709)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="rect10254_1_" cx="9762.1211" cy="-40327.1406" r="82.2228" gradientTransform="matrix(0.1435 0 0 2.620951e-02 -1174.6614 -1587.0453)" gradientUnits="userSpaceOnUse">
 		<stop  offset="0" style="stop-color:#FFFFFF"/>
 		<stop  offset="1" style="stop-color:#B978FF"/>
 	</radialGradient>
 	<rect id="rect10254" x="144.5" y="-2659" class="st36" width="164.1" height="30"/>
-	<text transform="matrix(1.6247 0 0 1.6247 185.1591 -2639.1211)" class="st4 st15">Workstation</text>
+	<text transform="matrix(1.6247 0 0 1.6247 185.1599 -2639.1204)" class="st4 st15">Workstation</text>
 </g>
 <g id="g6769" onclick="window.open('http://www.sown.org.uk/wiki/Category:Server');" transform="matrix(0.615504,0,0,0.615504,578.06394,2201.0161)">
 	
-		<radialGradient id="rect10263_1_" cx="3538.1599" cy="18354.7031" r="82.0057" gradientTransform="matrix(0.2332 0 0 -4.258220e-02 -598.4171 -1822.9863)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="rect10263_1_" cx="9762.1211" cy="-40050.6953" r="82.0716" gradientTransform="matrix(0.1435 0 0 2.620951e-02 -1174.6614 -1554.8607)" gradientUnits="userSpaceOnUse">
 		<stop  offset="0" style="stop-color:#FFFFFF"/>
 		<stop  offset="1" style="stop-color:#FF99FF"/>
 	</radialGradient>
 	<rect id="rect10263" x="144.5" y="-2619.6" class="st37" width="164.1" height="30"/>
-	<text transform="matrix(1.6247 0 0 1.6247 207.0473 -2600.2732)" class="st4 st15">Other</text>
+	<text transform="matrix(1.6247 0 0 1.6247 207.0479 -2600.2725)" class="st4 st15">Other</text>
 </g>
 <g id="g6764" onclick="window.open('http://www.sown.org.uk/wiki/Category:Server');" transform="matrix(0.615504,0,0,0.615504,578.06394,2201.0161)">
 	
-		<radialGradient id="rect10263-3_1_" cx="4698.6636" cy="18904.5645" r="82.0439" gradientTransform="matrix(0.2332 0 0 -4.258220e-02 -695.3919 -1838.3157)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="rect10263-3_1_" cx="11648.4922" cy="-40943.5313" r="82.0067" gradientTransform="matrix(0.1435 0 0 2.620951e-02 -1271.6361 -1570.1901)" gradientUnits="userSpaceOnUse">
 		<stop  offset="0" style="stop-color:#FFFFFF"/>
 		<stop  offset="1" style="stop-color:#AEDCFF"/>
 	</radialGradient>
 	<rect id="rect10263-3" x="318.1" y="-2658.3" class="st38" width="164.1" height="30"/>
-	<text transform="matrix(1.6247 0 0 1.6247 377.8876 -2639.6702)" class="st4 st15">Server</text>
+	<text transform="matrix(1.6247 0 0 1.6247 377.8881 -2639.6694)" class="st4 st15">Server</text>
 </g>
 <g id="g6759" onclick="window.open('http://www.sown.org.uk/homenode');" transform="matrix(0.615504,0,0,0.615504,578.06394,2201.0161)">
 	
-		<radialGradient id="rect10272_1_" cx="3538.3037" cy="18186.3477" r="82.0468" gradientTransform="matrix(0.2332 0 0 -4.258220e-02 -424.6506 -1830.7028)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="rect10272_1_" cx="9762.3545" cy="-39776.5078" r="82.0651" gradientTransform="matrix(0.1435 0 0 2.620951e-02 -1000.8948 -1562.5771)" gradientUnits="userSpaceOnUse">
 		<stop  offset="0" style="stop-color:#FFFFFF"/>
 		<stop  offset="1" style="stop-color:#9DFFB7"/>
 	</radialGradient>
 	<rect id="rect10272" x="318.3" y="-2620.1" class="st39" width="164.1" height="30"/>
-	<text transform="matrix(1.6247 0 0 1.6247 374.2955 -2599.8909)" class="st4 st15">Network</text>
+	<text transform="matrix(1.6247 0 0 1.6247 374.2961 -2599.8901)" class="st4 st15">Network</text>
 </g>
 <g id="g6779" transform="matrix(0.615504,0,0,0.615504,578.06394,2201.0161)">
 	<rect id="rect10263-4" x="145.1" y="-2579.2" class="st40" width="164.1" height="30"/>
-	<text transform="matrix(1.6247 0 0 1.6247 197.7221 -2559.8257)" class="st4 st15">Physical</text>
+	<text transform="matrix(1.6247 0 0 1.6247 197.7226 -2559.825)" class="st4 st15">Physical</text>
 </g>
 <g id="g6784" transform="matrix(0.615504,0,0,0.615504,578.06394,2201.0161)">
 	<rect id="rect10272-9" x="318.9" y="-2579.7" class="st41" width="164.1" height="30"/>
-	<text transform="matrix(1.6247 0 0 1.6247 380.9654 -2559.4419)" class="st4 st15">Virtual</text>
+	<text transform="matrix(1.6247 0 0 1.6247 380.9662 -2559.4412)" class="st4 st15">Virtual</text>
 </g>
 <path id="line10313_9_" class="st7" d="M397.6,596.2"/>
-<radialGradient id="rect10202-5-2-0_11_" cx="-346.9001" cy="3770.2097" r="40.8935" gradientTransform="matrix(0.7346 0 0 -0.7383 688.5521 3380.5315)" gradientUnits="userSpaceOnUse">
+<radialGradient id="rect10202-5-2-0_11_" cx="-162.3097" cy="-3413.0996" r="40.9046" gradientTransform="matrix(0.7346 0 0 0.7383 552.9327 3116.8772)" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#FFFFFF"/>
 	<stop  offset="1" style="stop-color:#FF99FF"/>
 </radialGradient>
@@ -380,4 +383,32 @@
 <text transform="matrix(1 0 0 1 419.2419 574.5311)" class="st11 st15">10.0.2.8</text>
 <line id="line9962_24_" class="st1" x1="435.5" y1="559.6" x2="435.6" y2="524.9"/>
 <ellipse id="ellipse10340_17_" class="st6" cx="435.6" cy="561.7" rx="3.6" ry="3.9"/>
+<path id="line9962_30_" class="st1" d="M418.5,147.5"/>
+<path id="line10018_22_" class="st13" d="M517.7,105.5"/>
+<g id="g6494_10_" onclick="window.open('http://www.sown.org.uk/wiki/Sown-gw');" transform="matrix(0.615504,0,0,0.615504,578.06394,2201.0161)">
+	
+		<radialGradient id="rect9906_19_" cx="26443.4258" cy="74215.5313" r="193.0287" gradientTransform="matrix(4.773397e-02 0 0 -2.686242e-02 -1459.7496 -1469.6987)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7DC7FF"/>
+	</radialGradient>
+	<rect id="rect9906_9_" x="-301.5" y="-3521.7" class="st43" width="208" height="116.3"/>
+	<ellipse id="ellipse10340_20_" class="st6" cx="-199.1" cy="-3404" rx="5.9" ry="6.3"/>
+	<text transform="matrix(1.6247 0 0 1.6247 -230.4745 -3456.1353)" class="st4 st5">resilio</text>
+	<text transform="matrix(1.6247 0 0 1.6247 -233.1575 -3420.4453)" class="st11 st15">10.0.3.1</text>
+</g>
+<radialGradient id="rect9906_20_" cx="19777.3711" cy="44996.0234" r="0" gradientTransform="matrix(4.773397e-02 0 0 -2.686242e-02 -348.011 1355.5353)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#7DC7FF"/>
+</radialGradient>
+<path id="rect9906_11_" class="st44" d="M596,146.8"/>
+<radialGradient id="rect9906_21_" cx="17095.3223" cy="44996.0234" r="0" gradientTransform="matrix(4.773397e-02 0 0 -2.686242e-02 -348.011 1355.5353)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#7DC7FF"/>
+</radialGradient>
+<path id="rect9906_8_" class="st45" d="M468,146.8"/>
+<path id="line9962_33_" class="st1" d="M455.5,105.6"/>
+<path id="line9962_32_" class="st1" d="M493.8,147.9"/>
+<path id="line9962_28_" class="st1" d="M494,147.5"/>
+<ellipse id="ellipse10340_21_" class="st6" cx="455.3" cy="146.8" rx="3.6" ry="3.9"/>
+<line id="line9962_31_" class="st1" x1="455.3" y1="105.4" x2="455.3" y2="147.5"/>
 </svg>
