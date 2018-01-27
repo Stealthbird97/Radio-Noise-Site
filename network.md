@@ -4,6 +4,7 @@ title: Network
 sidebar_link: true
 ---
 ## Topology Graph
+![Topology](../assets/images/topology.png)
 
 ### Server Equipment
 Tree-Diagram  
@@ -37,7 +38,15 @@ Last Order
 
 ### Network Equipment
 Draytek Vigor 130 \\
+SamKnows Whitebox \\
 Ubiquiti ToughSwitch \\
 Ubiquiti Unifi UAP-AC-Lite
+
+###Other
+Janie
+* Raspberry Pi Model 3 B
+
+Febrie
+* Raspberry Pi Model 1 B
 
 
